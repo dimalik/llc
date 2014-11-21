@@ -13,9 +13,8 @@ After that, just start the local server with:
 
 The credentials for the superuser are:
 
-<pre>
-  <ul>
-    <li>username: test</li>
-    <li>password: test</li>
-  </ul>
-</pre>
+<ul>
+  <li>username: test</li>
+  <li>password: test</li>
+</ul>
+
