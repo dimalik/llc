@@ -1,0 +1,20 @@
+1	Current Biology	http://www.cell.com/current-biology/
+2	CogSci	
+3	PLOS ONE	http://www.plosone.org/
+4	Psychological Science	
+5	Cognition	
+6	Language Learning and Development	
+7	Trends in Cognitive Sciences	
+8	Cortex	
+9	nature neuroscience	
+10	Journal of Memory and Language	
+11	Journal of Neuroscience	
+12	Journal of Cognitive Neuroscience	
+13	Behavioural and Brain Sciences	
+14	Lingua	
+15	Brain and Language	
+16	Bilingualism: Language and Cognition	
+17	The Quarterly Journal of Experimental Psychology	
+18	Proceedings of the National Academy of Sciences	
+19	Cognitive Psychology	
+20	Philosophical Transactions of the Royal Society B	

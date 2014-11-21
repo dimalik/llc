@@ -1,0 +1,21 @@
+1	Laboratoire de Sciences Cognitives et Psycholinguistique	CNRS/EHESS/DEC-ENS	29 Rue d’Ulm, 75005
+2	Ecole Doctorale Cerveau-Cognition-Comportement	Universite ́ Pierre et Marie Curie	9 Quai Saint Bernard
+3	Cognition and Brain Sciences Unit, Medical Research Council	University of Cambridge	15 Chaucer Road, Cambridge CB2 7EF, UK
+4	Department of Psychology	University of Cambridge	Downing Street, Cambridge CB2 3EB, UK
+5	Department of Brain and Cognitive Sciences	University of Rochester	Rochester, NY 14627
+6	Department of Psychology	University of Illinois at Urbana-Champaign	Champaign, IL 61820
+7	Department of Psychology	University of Iowa	Iowa City, IA 52242
+8	Department of Brain and Cognitive Sciences	Massachusetts Institute of Technology	Boston, Massachusetts, United States of America
+9	Department of Psychological and Brain Sciences	University of California Santa Barbara	Santa Barbara, California, United States of Americ
+10	Department of Psychology	Stanford University	Palo Alto, California, United States of America
+11	Department of Linguistics	University of British Columbia	Vancouver, British Columbia, Canada
+12	Department of Psychology	University of York	
+13	Department of Psychology	Scranton University	
+14	Psychology Department	, University of Haifa, Haifa, Israel	
+15	Linguistics Department	Eberhard Karls University	Tübingen, Germany
+16	Department of Psychology	University of Oregon	Eugene, Oregon 97403-1227
+17	Cognitive Science Department	Johns Hopkins University	Baltimore, MD 21218, USA
+18	Department of Otolaryngology-Head and Neck Surgery	Johns Hopkins University School of Medicine	Baltimore, Maryland, United States of America
+19	Department of Psychology	University of Pennsylvania	3720 Walnut St., Philadelphia, PA 19104, USA
+20	Department of Psychology and Center for Brain, Behavior, and Cognition	Pennsylvania State University	University Park, Pennsylvania, USA
+21	National Key Research Center for Linguistics and Applied Linguistics	Guangdong University of Foreign Studies	Guangzhou, China

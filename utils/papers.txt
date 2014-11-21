@@ -1,0 +1,36 @@
+1	Inducing Task-Relevant Responses to Speech in the Sleeping Brain	1	papers/Sid Kouider, Thomas Andrillon, Leonardo Barbosa, Louise Goupil, Tristan A. Bekinschtein_2014.pdf	2014	24	None	1-7	http://www.cell.com/current-biology/abstract/S0960-9822(14)00994-4
+2	On-line Measures of Prediction in a Self-Paced Statistical Learning Task	2	papers/Elizabeth A. Karuza, Thomas A. Farmer, Alex B. Fine, Francis X. Smith, T. Florian Jaeger_2014.pdf	2014	None	None		
+3	When It Hurts (and Helps) to Try: The Role of Effort in Language Learning	3	papers/Amy S. Finn, Taraz Lee, Allison Kraus, Carla L. Hudson Kam_2014.pdf	2014	9	7	1--9	http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0101806
+4	Sleep Underpins the Plasticity of Language Production	4	papers/M. Gareth Gaskell, Jill Warker, Shane Lindsay, Rebecca Frost, James Guest, Reza Snowdon, Abigail Stackhouse_2014.pdf	2014	25	7	1457-1465	http://pss.sagepub.com/content/25/7/1457
+5	Granularity and the acquisition of grammatical gender: How order-of-acquisition affects what gets learned	5	papers/Inbal Arnon, Michael Ramscar_2012.pdf	2012	122	None	292-305	
+6	Language and Other Cognitive Systems. What Is Special About Language?	6	papers/Noam Chomsky_2011.pdf	2011	7	4	263-278	http://www.tandfonline.com/doi/abs/10.1080/15475441.2011.584041#.VFltFfSsV0I
+7	The Modularity Issue in Language Acquisition: A Rapprochement? Comments on Gallistel and Chomsky	6	papers/E. L. Newport_2011.pdf	2011	7	4	279-286	
+8	Prelinguistic Thought	6	papers/C. R. Gallistel_2011.pdf	2011	7	4	253-262	
+9	Finding words and rules in a speech stream - Functional differences between vowels and consonants	4	papers/J. M. Toro, M. Nespor, J. Mehler, L. L. Bonatti_2008.pdf	2008	19	2	137-144	
+10	What is so special about embodied simulation?	7	papers/V. Gallese, C. Sinigaglia_2011.pdf	2011	15	11	512-519	
+11	Action-based language: A theory of language acquisition, comprehension, and production	8	papers/A. M. Glenberg, V. Gallese_2012.pdf	2012	48	7	905-922	
+12	Humans can learn new information during sleep	9	papers/Anat Arzi, Limor Shedlesky, Mor Ben-Shaul, Khitam Nasser, Arie Oksenberg, Ilana S. Hairston, Noam Sobel_2012.pdf	2012	15	10	1460-1465	
+13	Competition from unseen or unheard novel words: Lexical consolidation across modalities	10	papers/Iske Bakker, Atsuko Takashima, Janet G. van Hell, Gabriele Janzen, James M. McQueen_2014.pdf	2014	73	None	116-130	
+14	The Human Brain Processes Syntax in the Absence of Conscious Awareness	11	papers/Laura Batterink, Helen J. Neville_2013.pdf	2013	33	19	8528-8533	
+15	Implicit and Explicit Second Language Training Recruit Common Neural Mechanisms for Syntactic Processing	12	papers/Laura Batterink, Helen J. Neville_2013_ozgnEIz.pdf	2013	25	6	936-951	
+16	Learning biases predict a word order universal	5	papers/Jennifer Culbertson, Paul Smolensky, Geraldine Legendre_2012.pdf	2012	122	None	306-329	
+17	Neural Substrates of Interactive Musical Improvisation: An fMRI Study of ‘Trading Fours’ in Jazz	3	papers/Gabriel F. Donnay, Summer K. Rankin, Monica Lopez-Gonzalez, Patpong Jiradejvong, Charles J. Limb_2014.pdf	2014	9	2	1-10	
+18	The myth of language universals: Language diversity and its importance for cognitive science	13	papers/Nicholas Evans, Stephen C. Levinson_2009.pdf	2009	32	None	429-492	
+19	Language-Selective and Domain-General Regions Lie Side by Side within Broca’s Area	1	papers/Evelina Fedorenko, John Duncan, Nancy Kanwisher_2012.pdf	2012	22	None	2059-2062	
+20	No Childhood Advantage in the Acquisition of Skill in Using an Artificial Language Rule	3	papers/Sara Ferman, Avi Karni_2010.pdf	2010	5	10	1-10	
+21	Implicit Learning–Explicit Knowing: A Role for Sleep in Memory System Interaction	12	papers/Stefan Fischer, Spyridon Drosopoulos, Jim Tsen, Jan Born_2006.pdf	2006	18	3	311-319	
+22	What Predicts Successful Literacy Acquisition in a Second Language?	4	papers/Ram Frost, Noam Siegelman, Alona Narkiss, Liron Afek_2013.pdf	2013	24	7	1243-1252	
+23	A Noisy-Channel Account of Crosslinguistic Word-Order Variation	4	papers/Edward Gibson, Steven T. Piantadosi, Kimberly Brink, Leon Bergen, Eunice Lim, Rebecca Saxe_2013.pdf	2013	24	7	1079-1088	
+24	Cognitive constraints on constituent order: Evidence from elicited pantomime	5	papers/Matthew L. Hall, Rachel I. Mayberry, Victor S. Ferreira_2013.pdf	2013	129	None	1-17	
+25	Music, language and meaning: brain signatures of semantic processing	9	papers/S. Koelsch, E. Kasper, D. Sammler, K. Schulze, T. Gunter, A. D. Friederici_2004.pdf	2004	7	3	302-307	
+26	Time for a sea-change in linguistics: Response to comments on 'The Myth of Language Universals'	14	papers/Nicholas Evans, Stephen C. Levinson_2010.pdf	2010	120	None	2733-2758	
+27	Prospective and retrospective semantic processing: Prediction, time, and relationship strength in event-related potentials	15	papers/Barbara J. Luka, Cyma Van Petten_2014.pdf	2014	135	None	115-129	
+28	Explicit and Implicit Second Language Training Differentially Affect the Achievement of Native-like Brain Activation Patterns	12	papers/Kara Morgan-Short, Karsten Steinhauer, Cristina Sanz, Michael T. Ullman_2012.pdf	2012	24	4	933-947	
+29	Declarative and procedural memory as individual differences in second language acquisition	16	papers/Kara Morgan-Short, Mandy Faretta-Stutenberg, Katherine A. Brill-Schuetz, Helen Carpenter, Patrick C. M. Wong_2014.pdf	2014	17	1	56-72	
+30	Simulating the N400 ERP component as semantic network error: Insights from a feature-based connectionist attractor model of word meaning	5	papers/Ken McRae, Milena Rabovsky_2014.pdf	2014	132	None	68-89	
+31	Bidirectional syntactic priming across cognitive domains: From arithmetic to language and back	17	papers/Christoph Scheepers, Patrick Sturt_2014.pdf	2014	67	8	1643-1654	
+32	The semantic origins of word order	5	papers/Henriette de Swart, Marieke Schouwstra_2014.pdf	2014	131	None	431-436	
+33	Humanized Foxp2 accelerates learning by enhancing transitions from declarative to procedural performance	18		2014	111	39	14253–14258	
+34	Propose but verify: Fast mapping meets cross-situational word learning	19	papers/John C. Trueswell, Tamara Nicol Medina, Alon Hafri, Lila R. Gleitman_2013.pdf	2013	66	None	126-156	
+35	Brain Networks of Explicit and Implicit Learning	3	papers/Jing Yang, Ping Li_2012.pdf	2012	7	8	1-9	
+36	Can the meaning of multiple words be integrated unconsciously?	20	papers/Simon van Gaal, Lionel Naccache, Julia D. I. Meuwese, Anouk M. van Loon, Alexandra H. Leighton, Laurent Cohen,  Stanislas Dehaene_2014.pdf	2014	369	None	1-11	

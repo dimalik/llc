@@ -1,0 +1,133 @@
+1	Sid Kouider	
+2	Thomas Andrillon	
+3	Leonardo Barbosa	
+4	Louise Goupil	
+5	Tristan A. Bekinschtein	
+6	Elizabeth A. Karuza	ekaruza@bcs.rochester.edu
+7	Thomas A. Farmer	thomas-farmer@uiowa.edu
+8	Alex B. Fine	abfine@illinois.edu
+9	Francis X. Smith	francis-smith@uiowa.edu
+10	T. Florian Jaeger	fjaeger@bcs.rochester.edu
+11	Amy S. Finn	amyfinn@mit.edu
+12	Taraz Lee	
+13	Allison Kraus	
+14	Carla L. Hudson Kam	
+15	M. Gareth Gaskell	
+16	Jill Warker	
+17	Shane Lindsay	
+18	Rebecca Frost	
+19	James Guest	
+20	Reza Snowdon	
+21	Abigail Stackhouse	
+22	Inbal Arnon	
+23	Michael Ramscar	
+24	Noam Chomsky	
+25	E. L. Newport	
+26	C. R. Gallistel	
+27	J. M. Toro	
+28	M. Nespor	
+29	J. Mehler	
+30	L. L. Bonatti	
+31	V. Gallese	
+32	C. Sinigaglia	
+33	A. M. Glenberg	
+34	Anat Arzi	
+35	Limor Shedlesky	
+36	Mor Ben-Shaul	
+37	Khitam Nasser	
+38	Arie Oksenberg	
+39	Ilana S. Hairston	
+40	Noam Sobel	
+41	Iske Bakker	
+42	Atsuko Takashima	
+43	Janet G. van Hell	
+44	Gabriele Janzen	
+45	James M. McQueen	
+46	Laura Batterink	
+47	Helen J. Neville	
+48	Jennifer Culbertson	
+49	Paul Smolensky	
+50	Geraldine Legendre	
+51	Gabriel F. Donnay	
+52	Summer K. Rankin	
+53	Monica Lopez-Gonzalez	
+54	Patpong Jiradejvong	
+55	Charles J. Limb	
+56	Nicholas Evans	
+57	Stephen C. Levinson	
+58	Evelina Fedorenko	
+59	John Duncan	
+60	Nancy Kanwisher	
+61	Sara Ferman	
+62	Avi Karni	
+63	Stefan Fischer	
+64	Spyridon Drosopoulos	
+65	Jim Tsen	
+66	Jan Born	
+67	Ram Frost	
+68	Noam Siegelman	
+69	Alona Narkiss	
+70	Liron Afek	
+71	Edward Gibson	
+72	Steven T. Piantadosi	
+73	Kimberly Brink	
+74	Leon Bergen	
+75	Eunice Lim	
+76	Rebecca Saxe	
+77	Matthew L. Hall	
+78	Rachel I. Mayberry	
+79	Victor S. Ferreira	
+80	S. Koelsch	
+81	E. Kasper	
+82	D. Sammler	
+83	K. Schulze	
+84	T. Gunter	
+85	A. D. Friederici	
+86	Barbara J. Luka	
+87	Cyma Van Petten	
+88	Kara Morgan-Short	
+89	Karsten Steinhauer	
+90	Cristina Sanz	
+91	Michael T. Ullman	
+92	Kara Morgan-Short	
+93	Mandy Faretta-Stutenberg	
+94	Katherine A. Brill-Schuetz	
+95	Helen Carpenter	
+96	Patrick C. M. Wong	
+97	Milena Rabovsky	
+98	Ken McRae	
+99	Christoph Scheepers	
+100	Patrick Sturt	
+101	Marieke Schouwstra	
+102	Henriette de Swart	
+103	Christiane Schreiweis	
+104	Ulrich Bornschein	
+105	Eric Burguiere	
+106	Cemil Kerimoglu	
+107	Sven Schreiter	
+108	Michael Dannemann	
+109	Shubhi Goyal	
+110	Ellis Rea	
+111	Catherine A. French	
+112	Rathi Puliyadi	
+113	Matthias Groszer	
+114	Simon E. Fisher	
+115	Roger Mundry	
+116	Christine Winter	
+117	Wulf Hevers	
+118	Svante Paabo	
+119	Wolfgang Enard	
+120	Ann M. Graybiela	
+121	John C. Trueswell	
+122	Tamara Nicol Medina	
+123	Alon Hafri	
+124	Lila R. Gleitman	
+125	Jing Yang	
+126	Ping Li	
+127	Simon van Gaal	
+128	Lionel Naccache	
+129	Julia D. I. Meuwese	
+130	Anouk M. van Loon	
+131	Alexandra H. Leighton	
+132	Laurent Cohen	
+133	Stanislas Dehaene	
